@@ -1,0 +1,16 @@
+{
+  "name": "demo-node-lib",
+  "private": false,
+  "version": "0.0.0",
+  "description": "a node demo node lib",
+  "keywords": [],
+  "dependencies": {},
+  "scripts": {},
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dena/demo-node-lib.git"
+  },
+  "author": "jsanford",
+  "license": ""
+}
